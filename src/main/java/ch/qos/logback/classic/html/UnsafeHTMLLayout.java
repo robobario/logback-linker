@@ -1,6 +1,5 @@
 package ch.qos.logback.classic.html;
 
-import ch.qos.logback.classic.html.HTMLLayout;
 import ch.qos.logback.classic.spi.ILoggingEvent;
 import ch.qos.logback.core.CoreConstants;
 import ch.qos.logback.core.helpers.Transform;
